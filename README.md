@@ -1,1 +1,6 @@
-# SC_302_Documentacion_MN_BraynerChaves
+# SC\_302\_Documentacion\_MN\_BraynerChaves
+
+
+
+mi primer trabajo de git 
+
